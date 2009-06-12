@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-03-10 22:50+0100\n"
-"PO-Revision-Date: 2009-03-10 22:50+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2009-06-02 12:55+0200\n"
+"Last-Translator: Felix21 <geofelix1@libero.it>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,37 +14,37 @@ msgstr ""
 #. [campaign]: id=Galis_Contract
 #: Up_From_Slavery/_main.cfg:10
 msgid "Up From Slavery"
-msgstr ""
+msgstr "Fuga Dalla Schiavitù"
 
 #. [campaign]: id=Galis_Contract
 #: Up_From_Slavery/_main.cfg:11
 msgid "UFS"
-msgstr ""
+msgstr "FDS"
 
 #. [campaign]: id=Galis_Contract
 #: Up_From_Slavery/_main.cfg:16
 msgid "Samnis"
-msgstr ""
+msgstr "Samnis"
 
 #. [campaign]: id=Galis_Contract
 #: Up_From_Slavery/_main.cfg:16
 msgid "(easiest)"
-msgstr ""
+msgstr "(più facile)"
 
 #. [campaign]: id=Galis_Contract
 #: Up_From_Slavery/_main.cfg:17
 msgid "Hoplomachus"
-msgstr ""
+msgstr "Hoplomachus"
 
 #. [campaign]: id=Galis_Contract
 #: Up_From_Slavery/_main.cfg:18
 msgid "(hardest)"
-msgstr ""
+msgstr "(più difficile)"
 
 #. [campaign]: id=Galis_Contract
 #: Up_From_Slavery/_main.cfg:18
 msgid "Hoplomachus Fortis"
-msgstr ""
+msgstr "Hoplomachus Fortis"
 
 #. [campaign]: id=Galis_Contract
 #: Up_From_Slavery/_main.cfg:25
@@ -59,18 +59,27 @@ msgid ""
 "(Intermediate level, 7 scenarios.)\n"
 "\n"
 msgstr ""
+"L'anno è...\n"
+"    \n"
+"Beh, gli orchi non sanno esattamente che anno è. Essi sono prigionieri nella "
+"città imperiale di Lavinium, esibendosi come gladiatori per l'imperatore "
+"Optus Maximus. Quello che serve, comunque, è un orco per guidare la sua "
+"gente alla libertà. Il Samnis chiamato Sparxus potrebbe essere quell'orco.\n"
+"\n"
+"(Livello Intermedio, 7 scenari.)\n"
+"\n"
 
 #. [scenario]: id=1_Unlucky_Draw
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:10
 msgid "Unlucky Draw"
-msgstr ""
+msgstr "Una Mano Sfortunata"
 
 #. [side]: type=Magni Samnis, id=Sparxus
 #. [side]: type=Magni Murmillo, id=Grarivus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:31
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:83
 msgid "Thod's Army"
-msgstr ""
+msgstr "L'Esercito di Thod"
 
 #. [side]: type=Magni Samnis, id=Sparxus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:35
@@ -82,44 +91,44 @@ msgstr ""
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:54
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:33
 msgid "Sparxus"
-msgstr ""
+msgstr "Sparxus"
 
 #. [side]: type=Magni Gallus, id=Proxius
 #. [side]: type=Magni Samnis, id=Gysebus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:45
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:64
 msgid "Urbel's Army"
-msgstr ""
+msgstr "L'Esercito di Urbel"
 
 #. [side]: type=Magni Gallus, id=Proxius
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:49
 msgid "Proxius"
-msgstr ""
+msgstr "Proxius"
 
 #. [side]: type=Magni Samnis, id=Gysebus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:68
 msgid "Gysebus"
-msgstr ""
+msgstr "Gysebus"
 
 #. [side]: type=Magni Murmillo, id=Grarivus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:87
 msgid "Grarivus"
-msgstr ""
+msgstr "Grarivus"
 
 #. [side]: type=Lavinian Imperator, id=Optus M
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:102
 msgid "Spectators"
-msgstr ""
+msgstr "Spettatori"
 
 #. [side]: type=Lavinian Imperator, id=Optus M
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:106
 msgid "Optus Maximus"
-msgstr ""
+msgstr "Optus Maximus"
 
 #. [unit]: type=Nobleman, id=Cegnus S
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:116
 msgid "Cegnus Serenus"
-msgstr ""
+msgstr "Cegnus Serenus"
 
 #. [part]
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:171
@@ -129,6 +138,10 @@ msgid ""
 "time. I don't quite know how long, but I've heard tell its four hundred "
 "years."
 msgstr ""
+"Questa è la mia storia, la storia di Sparxus, un orco. Un gladiatore nel "
+"Colosseo di Lavinium, come lo era stato mio padre, e suo padre, e così via "
+"per lungo tempo. Non so esattamente per quanto tempo, ma ho sentito dire che "
+"siano quattrocento anni."
 
 #. [part]
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:174
@@ -137,6 +150,9 @@ msgid ""
 "get to fight, if we fight well we get to mate, and the slave quarters, the "
 "'Barracks', are like a city within a city."
 msgstr ""
+"A dire la verità, noi orchi siamo per la maggior parte felici nel Colosseo. "
+"Noi troviamo la lotta, se combattiamo bene troviamo un compagno, e i "
+"quartieri degli schiavi, le “Baracche”, sono come una città nella città."
 
 #. [part]
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:177
@@ -145,16 +161,19 @@ msgid ""
 "can't choose who we fight 'cause the men do that. But that's not so bad, "
 "most of the time."
 msgstr ""
+"Certo, possiamo combattere solo nel Colosseo, o gli uomini si arrabbiano con "
+"noi, e non possiamo scegliere chi combattere perché gli uomini lo fanno per "
+"noi. Ma non è così male, il più delle volte."
 
 #. [part]
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:180
 msgid "Of course, some of the time, it is."
-msgstr ""
+msgstr "Naturalmente, qualche volta, lo è."
 
 #. [objective]: condition=win
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:195
 msgid "Defeat Proxius and Gysebus"
-msgstr ""
+msgstr "Sconfiggi Proxius e Gysebus"
 
 #. [objective]: condition=lose
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:199
@@ -169,7 +188,7 @@ msgstr ""
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:292
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:134
 msgid "Death of Sparxus"
-msgstr ""
+msgstr "Morte di Sparxus"
 
 #. [objective]: condition=lose
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:203
@@ -183,47 +202,47 @@ msgstr ""
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:296
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:138
 msgid "Death of Grarivus"
-msgstr ""
+msgstr "Morte di Grarivus"
 
 #. [message]: id=Proxius
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:214
 msgid "Well, Sparxus, let's get them."
-msgstr ""
+msgstr "Bene, Sparxus, prendiamoli."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:218
 msgid "First one to kill Grarivus wins."
-msgstr ""
+msgstr "Il primo che uccide Grarivus vince."
 
 #. [message]: id=Proxius
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:222
 msgid "Sounds good to me."
-msgstr ""
+msgstr "Per me, va bene."
 
 #. [message]: id=Cegnus S
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:232
 msgid "I give you - the Orces Gladiatores!"
-msgstr ""
+msgstr "Vi presento – gli Orchi Gladiatori!"
 
 #. [message]: id=Proxius
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:236
 msgid "We -"
-msgstr ""
+msgstr "Ave – "
 
 #. [message]: id=Gysebus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:240
 msgid "- who are about to die -"
-msgstr ""
+msgstr "– i morituri –"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:244
 msgid "- salute you!"
-msgstr ""
+msgstr "– vi salutano!"
 
 #. [message]: id=Proxius
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:248
 msgid "(Something like that, anyway.)"
-msgstr ""
+msgstr "(Qualcosa tipo questo, comunque.)"
 
 #. [message]: id=Cegnus S
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:252
@@ -232,51 +251,54 @@ msgid ""
 "One worships Urbel, the god of the sea - this team wears green and blue - "
 "and the other Thod, the god of fire - this one in red and purple."
 msgstr ""
+"Oggi, vedremo una battaglia fra due tribù barbare dell'ovest. Una adora "
+"Urbel, il dio del mare – questa squadra ha i colori verde e blu – e l'altra "
+"Thod, il dio del fuoco – quest'altra in rosso e porpora."
 
 #. [message]: id=Cegnus S
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:256
 msgid "Gladiatores, take your positions!"
-msgstr ""
+msgstr "Gladiatori, prendete posizione!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:261
 msgid "Wait -"
-msgstr ""
+msgstr "Aspetta –"
 
 #. [message]: id=Proxius
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:265
 msgid "- Did he just say it was blue-green against red-purple?!"
-msgstr ""
+msgstr "– Non ha appena detto che era blu-verdi contro rossi-porpora?!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:269
 msgid "I think he did."
-msgstr ""
+msgstr "Penso di sì."
 
 #. [message]: id=Proxius
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:273
 msgid "That means -"
-msgstr ""
+msgstr "Ciò significa – "
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:277
 msgid "We're enemies. I'm with..."
-msgstr ""
+msgstr "Siamo nemici. Io sono con..."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:281
 msgid "Me. Dammit."
-msgstr ""
+msgstr "Me. Maledizione."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:285
 msgid "That's... unfortunate."
-msgstr ""
+msgstr "Questa è... sfortuna."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:289
 msgid "Let's get this over with."
-msgstr ""
+msgstr "Superiamo questa situazione."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:297
@@ -284,105 +306,109 @@ msgid ""
 "Right, so, the teams are me and Proxius 'gainst Gysebus and Grarivus... ah "
 "well."
 msgstr ""
+"Giusto, allora, le squadre sono io e Proxius contro Gysebus e Grarivus... "
+"ah, bene."
 
 #. [message]: id=Cegnus S
 #. [message]: id=Charcarodon
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:301
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:226
 msgid "Let the battle - begin!"
-msgstr ""
+msgstr "Che la battaglia – inizi!"
 
 #. [unit]: type=Minuti Piscator, id=Brotus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:325
 msgid "Brotus"
-msgstr ""
+msgstr "Brotus"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:460
 msgid "Well, let's take'em..."
-msgstr ""
+msgstr "Va bene, prendiamoli..."
 
 #. [message]: id=Brotus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:464
 msgid "Right! Remember to hold the oases, their waters give strength."
-msgstr ""
+msgstr "Giusto! Ricordate di tenere le oasi, le loro acque danno forza."
 
 #. [message]: id=Proxius
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:482
 msgid "Mercy! I surrender!"
-msgstr ""
+msgstr "Pietà! Mi arrendo!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:486
 msgid "Let's let him live..."
-msgstr ""
+msgstr "Lascialo vivere..."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:490
 msgid "What says the emperor?"
-msgstr ""
+msgstr "Cosa dice l'Imperatore?"
 
 #. [message]: id=Optus M
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:495
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:529
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:565
 msgid "Kill him."
-msgstr ""
+msgstr "Uccidetelo."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:499
 msgid "The emperor has spoken! Die, Proxius!"
-msgstr ""
+msgstr "L'Imperatore ha parlato! Muori, Proxius!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:503
 msgid "I'm sorry, friend..."
-msgstr ""
+msgstr "Mi dispiace, amico..."
 
 #. [message]: id=Proxius
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:516
 msgid "I yield!"
-msgstr ""
+msgstr "Cedo!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:520
 msgid "Very well. You shall live."
-msgstr ""
+msgstr "Molto bene. Tu vivrai."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:524
 msgid "Wait - what does the emperor say?"
-msgstr ""
+msgstr "Aspetta – cosa dice l'Imperatore?"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:533
 msgid "Damn you again, Grarivus - well, Proxius, prepare to die. I'm sorry."
 msgstr ""
+"Maledetto di nuovo tu, Grarivus – bene, Proxius, preparati a morire. Mi "
+"dispiace."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:537
 msgid "One down..."
-msgstr ""
+msgstr "Uno sconfitto..."
 
 #. [message]: id=Proxius
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:544
 msgid "I surrender!"
-msgstr ""
+msgstr "Mi arrendo!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:548
 msgid "I grant you mercy. Stand, friend."
-msgstr ""
+msgstr "Ti concedo pietà. Alzati, amico."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:552
 msgid "What in Hades is this? You kill Gysebus but let this dog live?"
-msgstr ""
+msgstr "Che diavolo è questo? Uccidi Gysebius ma lasci vivere questo cane?"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:556
 msgid "This 'dog' fought well. He deserves life."
-msgstr ""
+msgstr "Questo “cane” ha ben combattuto. Egli merita di vivere."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:560
@@ -390,81 +416,83 @@ msgid ""
 "Ha! Gysebus fought better. You're just a damn coward. Let's see what the "
 "emperor says."
 msgstr ""
+"Ha! Gysebius ha combattuto meglio. Sei solo un dannato codardo. Vediamo cosa "
+"dice l'Imperatore."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:569
 msgid "Argh... well, Proxius, it seems you must perish."
-msgstr ""
+msgstr "Argh... bene, Proxius, sembra che tu debba morire."
 
 #. [message]: id=Gysebus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:591
 msgid "Ai! Mercy!"
-msgstr ""
+msgstr "Ah! Pietà!"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:595
 msgid "Not likely. Die!"
-msgstr ""
+msgstr "Neanche per sogno. Muori!"
 
 #. [message]: id=Gysebus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:608
 msgid "Have pity! Don't kill me!"
-msgstr ""
+msgstr "Abbi pietà! Non uccidermi!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:612
 msgid "Face death like a mann, Gysebus."
-msgstr ""
+msgstr "Muori come un uomo, Gysebus."
 
 #. [message]: id=Proxius
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:616
 msgid "It's down to you and me, then."
-msgstr ""
+msgstr "Adesso è fra te e me, allora."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:620
 msgid "Yes. Well, if we must fight, we must."
-msgstr ""
+msgstr "Sì. Bene, se dobbiamo combattere, dobbiamo."
 
 #. [message]: id=Gysebus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:627
 msgid "Have mercy!"
-msgstr ""
+msgstr "Abbi pietà!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:631
 msgid "Proxius got none. Neither shall you."
-msgstr ""
+msgstr "Proxius non l'ha avuta. Non l'avrai nemmeno tu."
 
 #. [message]: type=Nobleman
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:693
 msgid "A good kill!"
-msgstr ""
+msgstr "Una buona preda!"
 
 #. [message]: type=Nobleman
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:707
 msgid "Bravo!"
-msgstr ""
+msgstr "Bravo!"
 
 #. [message]: type=Nobleman
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:721
 msgid "That was a cheap shot."
-msgstr ""
+msgstr "Era un colpo facile."
 
 #. [message]: type=Nobleman
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:735
 msgid "Another falls."
-msgstr ""
+msgstr "Un altro cade."
 
 #. [message]: type=Nobleman
 #: Up_From_Slavery/scenarios/1_Unlucky_Draw.cfg:749
 msgid "I love the smell of blood in the morning."
-msgstr ""
+msgstr "Mi piace l'odore del sangue al mattino."
 
 #. [scenario]: id=2_The_Slave_Quarters
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:8
 msgid "The Slave Quarters"
-msgstr ""
+msgstr "I quartieri degli schiavi"
 
 #. [side]: type=Magni Samnis, id=Sparxus
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:27
@@ -474,17 +502,17 @@ msgstr ""
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:48
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:27
 msgid "Escaped Orcs"
-msgstr ""
+msgstr "Gli orchi fuggiaschi"
 
 #. [side]: type=Lavinian Decurion, id=Laius D
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:62
 msgid "1st Legion"
-msgstr ""
+msgstr "Prima legione"
 
 #. [side]: type=Lavinian Decurion, id=Laius D
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:68
 msgid "Laius Delenus"
-msgstr ""
+msgstr "Laius Delenus"
 
 #. [part]
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:74
@@ -492,11 +520,13 @@ msgid ""
 "After that mockery of a battle the Lavinians escorted us back to the "
 "Barracks. The sun was setting in the west just as we returned..."
 msgstr ""
+"Dopo quella parodia di battaglia i Laviniani ci riportarono alle Baracche. "
+"Il sole stava tramontando ad ovest proprio mentre ritornavamo..."
 
 #. [objective]: condition=win
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:92
 msgid "Defeat the Barracks guard"
-msgstr ""
+msgstr "Sconfiggi la guardia delle Baracche"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:118
@@ -504,6 +534,8 @@ msgid ""
 "This has waited too long... Grarivus, I'm going to kill you even if the "
 "Lavinians kill me for it!"
 msgstr ""
+"Ho aspettato questo momento da troppo tempo... Grarivus, ti ucciderò anche "
+"se i Laviniani mi uccideranno per questo!"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:122
@@ -511,6 +543,8 @@ msgid ""
 "For some reason you seem to think they'll get a chance. They won't know you "
 "were ever there by the time I'm done with you!"
 msgstr ""
+"Per qualche ragione sembri pensare che essi sfrutteranno l'occasione. Essi "
+"non sapranno chi tu sia quando avrò finito con te!"
 
 #. [message]: id=Brotus
 #. [message]: id=Gotrus
@@ -520,16 +554,18 @@ msgid ""
 "Just a damn minute! If you two kill each other the Lavinians will punish all "
 "of us. That aint gonna happen."
 msgstr ""
+"Aspetta un dannato istante! Se voi vi uccidete l'un l'altro i Laviniani ci "
+"puniranno tutti. Questo non deve accadere."
 
 #. [unit]: type=Minuti Piscator, id=Gotrus
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:141
 msgid "Gotrus"
-msgstr ""
+msgstr "Gotrus"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:151
 msgid "The bastard has a point."
-msgstr ""
+msgstr "Il bastardo ha ragione."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:155
@@ -537,12 +573,16 @@ msgid ""
 "Yeah, well... I'm still gonna kill you. If not here and now, sometime later "
 "at the Coliseum. You will die, Grarivus!"
 msgstr ""
+"Sì, bene... Ti ucciderò lo stesso. Se non qui ed adesso, qualche volta più "
+"tardi al Colosseo. Morirai, Grarivus!"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:159
 msgid ""
 "If they never have us fight you'll never get a chance to fall to my blade."
 msgstr ""
+"Se non ci faranno mai combattere, non avrai la possibilità di cadere sotto "
+"la mia spada."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:163
@@ -550,11 +590,15 @@ msgid ""
 "You know, the damn Lavinians want us to fight but don't let us kill the ones "
 "who really deserve it. Even you'd agree that's khampsa-dung."
 msgstr ""
+"Sai, i dannati Laviniani ci vogliono far combattere ma non ci permettono di "
+"uccidere quelli che veramente lo meritano. Perfino tu saresti d'accordo che "
+"questo è sterco di lucertola di fiume."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:167
 msgid "You have a point. No one should be able to stop me from killing you."
 msgstr ""
+"Hai ragione. Nessuno dovrebbe essere capace di fermarmi dall'ucciderti."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:171
@@ -562,11 +606,13 @@ msgid ""
 "Grarivus, how about it - let's get out of here and go somewhere where we can "
 "fight it out properly."
 msgstr ""
+"Grarivus, cosa ne pensi – usciamo di qui ed andiamo da qualche parte dove "
+"possiamo combatterlo nella maniera giusta."
 
 #. [message]: id=Brotus
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:175
 msgid "Yeah! Let's go find freedom!"
-msgstr ""
+msgstr "Sì!! Cerchiamo di liberarci!"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:179
@@ -574,6 +620,8 @@ msgid ""
 "Well - all right, then. We'll get to freedom. But no further! And then - we "
 "fight!"
 msgstr ""
+"Oh – tutto bene, allora. Ci libereremo. Ma non oltre! E allora – "
+"combatteremo! "
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:183
@@ -581,52 +629,54 @@ msgid ""
 "We have a deal, enemy! You bring your menn, and I'll bring mine - together, "
 "we can get away from these Lavinians."
 msgstr ""
+"Abbiamo un patto, nemico! Tu porti i tuoi uomini, ed io porterò i miei – "
+"insieme, possiamo andarcene da questi Laviniani."
 
 #. [message]: id=Laius D
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:199
 msgid "The slaves are trying to escape! Quick, block them off!"
-msgstr ""
+msgstr "Gli schiavi stanno tentando di scappare! Svelti, fermateli!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:203
 msgid "Rush the guard! Don't let him call reinforcements!"
-msgstr ""
+msgstr "Attaccate la guardia! Non lasciatela chiamare rinforzi!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:215
 msgid "Ha! Now, on to freedom! Down the road, menn!"
-msgstr ""
+msgstr "Ha! Ora, verso la libertà! Per la strada, uomini!"
 
 #. [message]: speaker=narrator
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:220
 msgid "You have found 100 gold on Laius Delenus' person."
-msgstr ""
+msgstr "Tu hai trovato 100 monete d'oro sulla persona di Laius Delenus."
 
 #. [objective]: condition=win
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:229
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:288
 msgid "Bring Sparxus to the end of the road"
-msgstr ""
+msgstr "Porta Sparxus alla fine della strada"
 
 #. [unit]: type=Lavinian Centurion, id=Canus D
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:252
 msgid "Canus Delerius"
-msgstr ""
+msgstr "Canus Delerius"
 
 #. [message]: id=Canus D
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:279
 msgid "The slaves are escaping! After them!"
-msgstr ""
+msgstr "Gli schiavi stanno scappando! Inseguiteli!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:283
 msgid "Down the road! Down the road!"
-msgstr ""
+msgstr "Per la strada! Per la strada!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:311
 msgid "On to freedom, menn!"
-msgstr ""
+msgstr "Verso la libertà, uomini!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/2_The_Slave_Quarters.cfg:325
@@ -634,21 +684,23 @@ msgid ""
 "That wave has been defeated - but soon new men will come to track us down. "
 "We must flee down the road!"
 msgstr ""
+"Questa ondata è stata sconfitta – ma presto nuovi uomini si metteranno sulle "
+"nostre tracce. Dobbiamo scappare lungo la strada!"
 
 #. [scenario]: id=3.5_A_Detour
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:6
 msgid "A Detour"
-msgstr ""
+msgstr "Una Deviazione"
 
 #. [side]: type=Nobleman, id=Athenus S
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:41
 msgid "Lavinian Townsmen"
-msgstr ""
+msgstr "Cittadini laviniani"
 
 #. [side]: type=Nobleman, id=Athenus S
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:46
 msgid "Athenus Sparsus"
-msgstr ""
+msgstr "Athenus Sparsus"
 
 #. [part]
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:59
@@ -656,6 +708,8 @@ msgid ""
 "Thus, we continued north for several days, until we happened upon a small "
 "town."
 msgstr ""
+"Così, continuammo verso nord per alcuni giorni, fin quando arrivammo in una "
+"piccola città."
 
 #. [part]
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:62
@@ -665,31 +719,36 @@ msgid ""
 "'map' or 'library' meant, and I wasn't entirely sure myself about 'library', "
 "but if it would help us get away from the Lavinians, he was for it."
 msgstr ""
+"Grarivus ed io decidemmo di sgattaiolare nella città e di rubare una mappa "
+"dell'area dalla libreria della città. Non penso che Grarivus sapesse "
+"esattamente che cosa significassero “mappa” o “libreria”, ed anche io non "
+"ero completamente sicuro sul termine “libreria”, ma se ci sarebbe stato "
+"d'aiuto per scappare dai Laviniani, egli era per farlo."
 
 #. [objective]: condition=win
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:77
 msgid "Steal the maps from the town library"
-msgstr ""
+msgstr "Ruba le mappe dalla libreria cittadina"
 
 #. [label]
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:95
 msgid "Library"
-msgstr ""
+msgstr "Libreria"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:104
 msgid "All right, so where's this library exactly?"
-msgstr ""
+msgstr "Va bene allora, dov'è esattamente questa libreria?"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:108
 msgid "Speak quietly, Grarivus! We don't want to alert the -"
-msgstr ""
+msgstr "Parla piano, Grarivus! Non vogliamo mettere in allarme le –"
 
 #. [message]
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:112
 msgid "Ah! Orcs, orcs in the southern woods!"
-msgstr ""
+msgstr "Ah! Orchi, orchi nei boschi meridionali!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:117
@@ -697,6 +756,8 @@ msgid ""
 "Damn! He's surely gone to warn the town garrison - we'll be fighting them "
 "before long."
 msgstr ""
+"Maledetto! È andato sicuramente ad avvertire la guarnigione cittadina – li "
+"combatteremo quanto prima."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:121
@@ -704,16 +765,18 @@ msgid ""
 "Good! Orcs've always been better at fighting than sneaking anyway. Let them "
 "come!"
 msgstr ""
+"Bene! Gli orchi si sono sempre comportati meglio combattendo che rubando, "
+"comunque. Lasciamoli venire!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:125
 msgid "But remember - we just want to go in, get the maps, and leave."
-msgstr ""
+msgstr "Ma ricorda – vogliamo solo entrare, prendere le mappe, ed andarcene."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:137
 msgid "What does it say, what does it say?"
-msgstr ""
+msgstr "Cosa dice, cosa dice?"
 
 #. [message]
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:141
@@ -721,21 +784,23 @@ msgid ""
 "Let's see... Lavinium here, this place here, picture of orc there... we "
 "go... um, west! Yeah, west!"
 msgstr ""
+"Vediamo... Lavinium qui, questo posto qui, disegno di orco qui... andiamo... "
+"um, ad ovest! Sì, ovest!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:145
 msgid "All right then, let's go west."
-msgstr ""
+msgstr "Va bene, andiamo ad ovest."
 
 #. [objective]: condition=win
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:150
 msgid "Bring Sparxus to the western border of the map"
-msgstr ""
+msgstr "Porta Sparxus al bordo occidentale della mappa"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:170
 msgid "We travel westwards!"
-msgstr ""
+msgstr "Dirigiamoci ad ovest!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/3.5_A_Detour.cfg:186
@@ -743,21 +808,23 @@ msgid ""
 "Taking over the town was unnecessary - we just wanted the map. Well, in any "
 "case, let us press onwards. Westward!"
 msgstr ""
+"Conquistare la città non era necessario – volevamo solo la mappa. Comunque, "
+"in ogni caso, andiamo avanti. Verso ovest!"
 
 #. [scenario]: id=3_What_the_Dawn_Brought
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:6
 msgid "What the Dawn Brought"
-msgstr ""
+msgstr "Quello che l'Alba Portò"
 
 #. [side]: type=Nemidian Champion, id=Majurus S
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:41
 msgid "Nemidian Slave-catchers"
-msgstr ""
+msgstr "Cacciatori di Schiavi nemidiani"
 
 #. [side]: type=Nemidian Champion, id=Majurus S
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:45
 msgid "Majurus Sylalybus"
-msgstr ""
+msgstr "Majurus Sylalybus"
 
 #. [part]
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:83
@@ -765,6 +832,8 @@ msgid ""
 "Dawn the next day found Grarivus and me, thinking ourselves free, preparing "
 "to duel."
 msgstr ""
+"L'Alba del giorno dopo trovò me e Grarivus, che, credendoci liberi, ci "
+"preparavamo al duello."
 
 #. [part]
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:86
@@ -772,16 +841,18 @@ msgid ""
 "The Lavinians, however, had different plans. As we donned our gear, we heard "
 "hoofbeats on the road behind us..."
 msgstr ""
+"I Laviniani, comunque, avevano piani diversi. Appena indossammo le nostre "
+"armature, sentimmo rumore di zoccoli sulla strada dietro di noi..."
 
 #. [objective]: condition=win
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:101
 msgid "Kill the Nemidian slave-catchers"
-msgstr ""
+msgstr "Uccidi i cacciatori di schiavi nemidiani"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:125
 msgid "Hades! It seems we've been followed."
-msgstr ""
+msgstr "Maledizione! Sembra che siamo stati seguiti."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:129
@@ -790,11 +861,14 @@ msgid ""
 "free. And we have to keep together - your people and mine - until we are "
 "free. So we can't fight yet."
 msgstr ""
+"Poiché i Laviniani stanno ancora cercando di prenderci, non siamo veramente "
+"liberi. E dobbiamo mantenere uniti il tuo popolo ed il mio fino ad allora. "
+"Quindi, non possiamo combattere ancora."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:133
 msgid "I suppose so."
-msgstr ""
+msgstr "Penso di sì. "
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:137
@@ -802,6 +876,8 @@ msgid ""
 "Now... we can't possibly outrun these horsemen on foot. We'll have to kill "
 "them. But they're stonger than we are, by far..."
 msgstr ""
+"Ora... noi non possiamo sfuggire a questi cavalieri a piedi. Dobbiamo "
+"ucciderli. Ma sono di gran lunga più forti di noi..."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:141
@@ -809,21 +885,24 @@ msgid ""
 "I've heard horses are hard to ride among trees. Perhaps if we lead them to "
 "that copse north of us we'll be able to defeat them."
 msgstr ""
+"Ho sentito dire che i cavalli sono difficili da cavalcare fra gli alberi. "
+"Forse, se li conduciamo in quel boschetto a nord di qui, potremo "
+"sconfiggerli. "
 
 #. [message]: id=Majurus S
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:145
 msgid "Come on, let's round up these runaway orcs!"
-msgstr ""
+msgstr "Andiamo, circondiamo questi orchi fuggiaschi!"
 
 #. [message]: id=Majurus S
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:156
 msgid "I have failed..."
-msgstr ""
+msgstr "Ho fallito..."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:173
 msgid "That's the last of them."
-msgstr ""
+msgstr "Quello è l'ultimo."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:177
@@ -831,6 +910,8 @@ msgid ""
 "Yes, we're free for now... but how long until the Lavinians try again? We're "
 "still in the middle of their country."
 msgstr ""
+"Sì, siamo liberi per adesso... ma quanto tempo passerà prima che i Laviniani "
+"ci provino ancora? Siamo ancora nel mezzo del loro paese."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:181
@@ -839,16 +920,20 @@ msgid ""
 "here, where Lavinians never go; they captured us and put us in the Coliseum, "
 "but they never settled our old lands. If we get there, we'll be truly free."
 msgstr ""
+"Ho sentito dire nelle Baracche che noi orchi prima vivevamo da qualche parte "
+"lontano da qui, dove i Laviniani non vanno mai; essi ci catturarono e ci "
+"misero nel Colosseo, ma essi non si sono mai stabiliti sulle nostre vecchie "
+"terre. Se andiamo lì, saremo veramente liberi."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:185
 msgid "Where are these orc-lands, then?"
-msgstr ""
+msgstr "Dove sono queste terre degli orchi, allora?"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:189
 msgid "Uh..."
-msgstr ""
+msgstr "Uh..."
 
 #. [message]: id=Brotus
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:198
@@ -856,11 +941,14 @@ msgid ""
 "It's in the Western Mountains. Any fool knows that! Didn't none of you ever "
 "talk to the men back in the city?"
 msgstr ""
+"Sono nelle Montagne Occidentali. Qualunque sciocco lo sa! Nesuno di voi ha "
+"mai parlato con gli uomini giù in città?"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:202
 msgid "Sure, but about weapons and womenn, not maps. Damn upstart minuti."
 msgstr ""
+"Sicuro, ma di armi e di donne, non di mappe. Maledetti Minuti prepotenti."
 
 #. [message]: id=Brotus
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:206
@@ -868,11 +956,13 @@ msgid ""
 "I can't say I blame you for not embarrassing yourself trying to get "
 "educated. Only, you know, smart slaves can pull that off."
 msgstr ""
+"Non posso dire che ti incolpo per non imbarazzarti cercando di essere "
+"educato. Solamente, sai, gli schiavi intelligenti possono azzeccarla."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:210
 msgid "Calm down, calm down. Well then, Brotus, I suppose we're headed west!"
-msgstr ""
+msgstr "Calmati, calmati. Allora, Brotus, suppongo ci siamo diretti ad ovest!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:220
@@ -880,6 +970,8 @@ msgid ""
 "Ah, well, I don't know either. It's too bad Brotus died - he had a head for "
 "maps."
 msgstr ""
+"Ah, bene, non lo so nemmeno io. È un male che Brotus sia morto – egli aveva "
+"la testa per le mappe."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:224
@@ -887,11 +979,13 @@ msgid ""
 "That weakling? I guess if you aint good at fighting you have to be good at "
 "something."
 msgstr ""
+"Quello smidollato? Penso che se non sei buono a combattere devi essere buono "
+"a qualcosa."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:228
 msgid "...Anyway, we have to decide where to go from here."
-msgstr ""
+msgstr "...Comunque, dobbiamo decidere dove andare."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/3_What_the_Dawn_Brought.cfg:232
@@ -900,21 +994,24 @@ msgid ""
 "Lavinians are less likely to catch us. Maybe we'll hear something eventually "
 "about where this orc-land is."
 msgstr ""
+"Possiamo anche continuare ad andare a nord – ci porterà lontano dalla "
+"strada, così i Laviniani avranno meno probabilità a prenderci. Forse alla "
+"fine sentiremo qualcosa di dove sia questa terra degli orchi."
 
 #. [scenario]: id=4_End_of_the_Paved_Road
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:7
 msgid "End of the Paved Road"
-msgstr ""
+msgstr "Fine della Strada Lastricata"
 
 #. [side]: type=Lavinian Aquilifer, id=Antonius V
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:41
 msgid "4th Legion"
-msgstr ""
+msgstr "Quarta Legione"
 
 #. [side]: type=Lavinian Aquilifer, id=Antonius V
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:46
 msgid "Antonius Varus"
-msgstr ""
+msgstr "Antonius Varus"
 
 #. [part]
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:113
@@ -922,6 +1019,9 @@ msgid ""
 "We continued west-wards along the highway for a few more days. Following my "
 "reckoning we were nearing the border, though we still had a long way to go..."
 msgstr ""
+"Continuammo verso ovest lungo la strada per pochi giorni ancora. Secondo le "
+"mie conoscenze eravamo vicini al confine, anche se avevamo ancora molta "
+"strada da percorrere..."
 
 #. [part]
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:116
@@ -929,16 +1029,18 @@ msgid ""
 "As we continued along the road I saw a small town ahead - that meant that we "
 "were finally nearing the desert, and freedom..."
 msgstr ""
+"Mentre continuavamo lungo la strada, vidi davanti a noi una piccola città – "
+"ciò significava che alla fine eravamo vicini al deserto, ed alla libertà..."
 
 #. [objective]: condition=win
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:131
 msgid "Free the Orcs in the Slave Quarters by killing the guards"
-msgstr ""
+msgstr "Libera gli Orchi nel Quartiere degli Schiavi uccidendo le guardie"
 
 #. [objective]: condition=win
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:135
 msgid "Kill Antonius Varus"
-msgstr ""
+msgstr "Uccidi Antonius Varus"
 
 #. [message]: id=Antonius V
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:159
@@ -946,17 +1048,20 @@ msgid ""
 "Bastard Orcs! Raise the militia, the escaped gladiators are moving against "
 "us!"
 msgstr ""
+"Orchi bastardi! Radunate le milizie, i gladiatori scappati ci stanno venendo "
+"contro!"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:163
 msgid "Our reputation precedes us, heh heh..."
-msgstr ""
+msgstr "La nostra reputazione ci precede, eh, eh..."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:167
 msgid ""
 "Indeed, storm the town! They won't be able to hold out against my hordes..."
 msgstr ""
+"Infatti, assaltate la città! Essi non sapranno fronteggiare le mie orde..."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:171
@@ -964,98 +1069,106 @@ msgid ""
 "Our hordes! Don't forget to free the slaves either, they'll be in the slave "
 "quarters to the north."
 msgstr ""
+"Le nostre orde! Non dimenticare di liberare anche gli schiavi, saranno nei "
+"quartieri degli schiavi a nord."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:175
 msgid "Charge!!!"
-msgstr ""
+msgstr "Carica!!!"
 
 #. [message]: id=Antonius V
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:179
 msgid "Get in line, you dogs! They won't break through a solid formation!"
 msgstr ""
+"Tenete la linea, cani! Essi non passeranno attraverso un solido schieramento!"
 
 #. [message]: id=Antonius V
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:190
 msgid "Auuuuggghh, we are overrun... "
-msgstr ""
+msgstr "Auuuuggghh, siamo sopraffatti... "
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:197
 msgid "Orcei! You are now free, join me as we destroy your cruel masters!"
 msgstr ""
+"Orcei! Sei libero adesso, unisciti a me mentre distruggiamo i vostri crudeli "
+"padroni!"
 
 #. [unit]: id=Charcarodon, type=Minuti Fleet Retiarius
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:202
 msgid "Charcarodon"
-msgstr ""
+msgstr "Charcarodon"
 
 #. [message]: id=Charcarodon
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:244
 msgid "Hail the Great Khan! We are yours!"
-msgstr ""
+msgstr "Viva il Gran Khan! Siamo tuoi!"
 
 #. [message]: id=Brotus
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:253
 msgid ""
 "That's Charcarodon - the Shark! He's a household name throughout Lavinia."
-msgstr ""
+msgstr "Quello è Charcarodon – lo Squalo! È un nome famoso in tutta Lavinia. "
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:257
 msgid "I've heard of this orc - it is good to have him on our side."
-msgstr ""
+msgstr "Ho sentito di quest'orco – è bene averlo dalla nostra parte."
 
 #. [message]: id=Guard_2
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:270
 msgid "Bastard! I'll not die now, not by your hand!"
-msgstr ""
+msgstr "Bastardo! Non morirò ora, non per mano tua!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:279
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:319
 msgid "One guard down!"
-msgstr ""
+msgstr "Una guardia sconfitta!"
 
 #. [message]: id=Charcarodon
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:252
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:295
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:258
 msgid "So this is how the Shark dies..."
-msgstr ""
+msgstr "Così muore lo Squalo..."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:263
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:299
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:262
 msgid "You die a free Orc, my brother!"
-msgstr ""
+msgstr "Tu uccidi un orco libero, fratello mio!"
 
 #. [message]: id=Guard_1
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:310
 msgid "Please, have mercy! No! Auuuuggghh..."
-msgstr ""
+msgstr "Per piacere, abbi pietà!  No! Auuuuggghh..."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:343
 msgid "We've taken the town!"
-msgstr ""
+msgstr "Abbiamo preso la città!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:347
 msgid ""
 "Sack it! We don't want the Legions to find food and shelter as they arrive..."
 msgstr ""
+"Saccheggiatela! Non vogliamo che le Legioni trovino cibo e riparo quando "
+"arriveranno..."
 
 #. [message]: id=Charcarodon
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:356
 msgid "They'll be on our tail regardless, so we best do it quickly."
 msgstr ""
+"Saranno lo stesso sulle nostre tracce, quindi, meglio che lo facciamo presto."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:362
 msgid "When do you think we should move?"
-msgstr ""
+msgstr "Dove pensi che dovremmo andare?"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:368
@@ -1063,37 +1176,41 @@ msgid ""
 "We move out tommorow at dusk, it'll be less exhausting to travel the desert "
 "at night..."
 msgstr ""
+"Andremo via al crepuscolo, sarà meno spossante attraversare il deserto di "
+"notte..."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/4_End_of_the_Paved_Road.cfg:372
 msgid ""
 "I agree, we must rest before though. We have a very long way ahead of us."
 msgstr ""
+"Sono d'accordo, anche se dobbiamo prima riposare. Abbiamo un cammino molto "
+"lungo davanti a noi."
 
 #. [scenario]: id=5_Crossing_the_Desert
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:6
 msgid "Crossing the Desert"
-msgstr ""
+msgstr "Attraversare il Deserto"
 
 #. [side]: type=Lavinian Centurion, id=Marcus K
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:41
 msgid "5th Legion"
-msgstr ""
+msgstr "Quinta Legione"
 
 #. [side]: type=Lavinian Centurion, id=Marcus K
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:46
 msgid "Marcus Krassus"
-msgstr ""
+msgstr "Marcus Krassus"
 
 #. [unit]: type=Lavinian Praetorian Guard, id=Flavius D
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:53
 msgid "Flavius Demus"
-msgstr ""
+msgstr "Flavius Demus"
 
 #. [unit]: type=Nemidian Champion, id=Karbaal M
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:60
 msgid "Karbaal Massaylus"
-msgstr ""
+msgstr "Karbaal Massaylus"
 
 #. [part]
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:131
@@ -1102,16 +1219,19 @@ msgid ""
 "mountains finally in sight. If we had continued uninterrupted we'd have made "
 "it there by dawn tommorow."
 msgstr ""
+"E così fu, quella notte continuammo attraverso il deserto – con le montagne "
+"occidentali alla fine in vista. Se avessimo continuato non disturbati, "
+"saremmo arrivati lì per l'alba di domani."
 
 #. [part]
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:134
 msgid "Of course, uninterrupted was too much to hope for..."
-msgstr ""
+msgstr "Naturalmente, non essere disturbati era sperare troppo..."
 
 #. [objective]: condition=win
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:149
 msgid "Run to the hills"
-msgstr ""
+msgstr "Corsa alle colline"
 
 #. [message]: id=Marcus K
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:180
@@ -1119,6 +1239,8 @@ msgid ""
 "VIII Ceresia! The mongrels are there, just ahead of us. It is finally time "
 "for us to remind them of their place!"
 msgstr ""
+"VIII Ceresia! I bastarsi sono qui, proprio davanti a noi. Alla fine è tempo "
+"per noi di ricordare loro qual è il loro posto! "
 
 #. [message]: id=Marcus K
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:184
@@ -1126,21 +1248,23 @@ msgid ""
 "You have all experienced combat before, this will be no different. We will "
 "break them! They will dine on steel tonight!"
 msgstr ""
+"Tutti avete già combattuto in passato, adesso non sarà diverso. Li "
+"schianteremo! Mangeranno acciaio stanotte!"
 
 #. [message]: id=Flavius D
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:188
 msgid "Men! You heard the Centurion, we move now!"
-msgstr ""
+msgstr "Uomini! Avete sentito il Centurione, muoviamoci, ora!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:192
 msgid "Arm yourselves! We will stand our ground!"
-msgstr ""
+msgstr "Preparatevi! Terremo duro!"
 
 #. [message]: id=Karbaal M
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:196
 msgid "Noble Soldiers! Move into position - Charge!!!"
-msgstr ""
+msgstr "Nobili Soldati! Mettetevi in posizione – Carica!!!"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:200
@@ -1148,66 +1272,68 @@ msgid ""
 "Damn it! Run! Grab your weapons and move! We can't let the cavalry cut us "
 "off!"
 msgstr ""
+"Maledizione! Correte! Prendete le vostre armi e scappate! Non possiamo "
+"permettere che la cavalleria ci faccia a pezzi!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:204
 msgid "Follow the dunes, we move now my brothers!"
-msgstr ""
+msgstr "Seguite le dune, muoviamoci adesso, miei fratelli!"
 
 #. [message]: id=Marcus K
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:208
 msgid "You're mine, Sparxus!"
-msgstr ""
+msgstr "Sei mio, Sparxus!"
 
 #. [message]: id=Marcus K
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:219
 msgid "No! I will not fail..."
-msgstr ""
+msgstr "No! Io non cadrò..."
 
 #. [message]: id=Karbaal M
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:230
 msgid "Auuugghh..."
-msgstr ""
+msgstr "Auuugghh..."
 
 #. [message]: id=Marcus K
 #: Up_From_Slavery/scenarios/5_Crossing_the_Desert.cfg:241
 msgid "Continue, my cavalry! You will not fail!"
-msgstr ""
+msgstr "Avanti, miei cavalieri! Voi non cederete!"
 
 #. [scenario]: id=6_The_Last_Stage
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:7
 msgid "The Last Stage"
-msgstr ""
+msgstr "L'ultima tappa"
 
 #. [side]: type=Cavernei Lord, id=Odwin
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:41
 msgid "Dwarves of Western Mountains"
-msgstr ""
+msgstr "I nani delle Montagne Occidentali"
 
 #. [side]: type=Cavernei Lord, id=Odwin
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:46
 msgid "Odwin"
-msgstr ""
+msgstr "Odwin"
 
 #. [unit]: type=Cavernei Eagle Master, id=Berg
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:53
 msgid "Berg"
-msgstr ""
+msgstr "Berg"
 
 #. [unit]: type=Cavernei Eagle Rider, id=Danir
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:61
 msgid "Danir"
-msgstr ""
+msgstr "Danir"
 
 #. [side]: id=Barduir
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:97
 msgid "Dragon"
-msgstr ""
+msgstr "Dragone"
 
 #. [side]: id=Barduir
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:100
 msgid "Barduir the Ancient"
-msgstr ""
+msgstr "Barduir l'Antico"
 
 #. [part]
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:106
@@ -1215,6 +1341,9 @@ msgid ""
 "We've arrived, all that is left now is to finally settle and take what is "
 "ours by right - a life free of our unworthy Lavinian masters"
 msgstr ""
+"Siamo arrivati, tutto quello che ora rimane da fare è sistemarci "
+"definitivamente e prendere quello che è nostro per diritto – una vita libera "
+"dai nostri indegni padroni laviniani."
 
 #. [part]
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:109
@@ -1222,21 +1351,23 @@ msgid ""
 "Yet even now, after breaking free from our Lavinian bonds - and travelling "
 "our great sojourn - we are still denied that right...."
 msgstr ""
+"Perfino ora, dopo esserci liberati da nostri legami laviniani – ed aver "
+"fatto la nostra grande migrazione – ci è ancora negato quel diritto..."
 
 #. [objective]: condition=win
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:126
 msgid "Prove your worth to the dwarves"
-msgstr ""
+msgstr "Prova il tuo valore ai nani"
 
 #. [objective]: condition=win
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:130
 msgid "Force Barduir back to his cave (Optional)"
-msgstr ""
+msgstr "Trattieni Barduir nella sua caverna (Opzionale)"
 
 #. [message]: id=Danir
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:162
 msgid "There! The Orcs are here!"
-msgstr ""
+msgstr "Ecco! Gli orchi sono qui!"
 
 #. [message]: id=Berg
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:166
@@ -1245,11 +1376,13 @@ msgid ""
 "whatever the case - whether a healthy Orc or butchered carcass matters "
 "little to me..."
 msgstr ""
+"Orcei! Arrenditi ora e vivrai, ritornerai a Lavinium comunque – se come un "
+"orco sano o come una carcassa macellata mi importa poco..."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:170
 msgid "I shall not return to Lavinium! I will live and die a free Orc!"
-msgstr ""
+msgstr "Io non ritornerò a Lavinium! Vivrò e morirò come un orco libero!"
 
 #. [message]: id=Berg
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:174
@@ -1258,16 +1391,19 @@ msgid ""
 "large sum to be able to decapitate your lifeless body in front of the other "
 "slaves..."
 msgstr ""
+"Va bene, se è questa la tua decisione... Così sarà! I Laviniani pagheranno "
+"una grande somma per decapitare il tuo corpo senza vita davanti agli altri "
+"schiavi..."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:178
 msgid "That is the only reason you fight us? You're mercenaries?"
-msgstr ""
+msgstr "Questa è l'unica ragione per cui ci combattete? Siete dei mercenari?"
 
 #. [message]: id=Odwin
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:182
 msgid "Prepare to charge, my brothers!"
-msgstr ""
+msgstr "Preparatevi a caricare, miei fratelli!"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:186
@@ -1275,6 +1411,9 @@ msgid ""
 "It looks like there's an abandoned orc encampment ahead, if we can somehow "
 "convince the Cavernei to make peace we can settle right here..."
 msgstr ""
+"Sembra che ci sia un accampamento abbandonato degli orchi qui davanti, se "
+"riusciamo in qualche modo a convincere i Cavernei a far pace, possiamo "
+"stabilirci proprio qui..."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:190
@@ -1282,76 +1421,81 @@ msgid ""
 "If they fight only for money maybe we may merely need to make this cost more "
 "than they would gain..."
 msgstr ""
+"Se combattono solo per soldi forse è sufficiente rendere la battaglia più "
+"costosa di quanto potrebbero guadagnare..."
 
 #. [message]: id=Barduir
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:194
 msgid "Krrraaaaaarrrr!!!!"
-msgstr ""
+msgstr "Krrraaaaaarrrr!!!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:198
 msgid "Ach! What in the seven hells was that!?"
-msgstr ""
+msgstr "Accidenti! Nel nome dei sette inferni, cos'è quello?"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:202
 msgid "Dragon... There's a dragon... coming towards us..."
-msgstr ""
+msgstr "Dragone... C'è un dragone... che viene verso di noi..."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:206
 msgid "Move, move, move! Latronii, prepare to shoot that bastard from the sky!"
 msgstr ""
+"Muovetevi, muovetevi, muovetevi! Latronii, preparatevi a buttare giù quel "
+"bastardo dal cielo!"
 
 #. [message]: id=Brotus
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:210
 msgid "Maybe the dragon would choose not to fight us if we wound him..."
-msgstr ""
+msgstr "Forse il dragone sceglierebbe di non combatterci se lo feriamo..."
 
 #. [message]: id=Odwin
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:221
 msgid "Eh... Maybe it wasn't worth the money..."
-msgstr ""
+msgstr "Eh... Forse non ne valeva la pena..."
 
 #. [message]: id=Berg
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:235
 msgid "Ach! I'm dying..."
-msgstr ""
+msgstr "Ah! Muoio..."
 
 #. [message]: id=Danir
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:244
 msgid "Master! You can't die here, not like this!"
-msgstr ""
+msgstr "Padrone! Non puoi morire qui, non così!"
 
 #. [message]: id=Barduir
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:286
 msgid "Krraaaarrr!!!"
-msgstr ""
+msgstr "Krraaaarrr!!!"
 
 #. [message]: id=Barduir
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:291
 msgid "Eyaarrr..."
-msgstr ""
+msgstr "Eyaarrr..."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:298
 msgid "The dragon is retreating!"
-msgstr ""
+msgstr "Il dragone si sta ritirando!"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:302
 msgid "Now we can focus on the dwarves..."
-msgstr ""
+msgstr "Ora, possiamo concentrarci sui nani..."
 
 #. [message]: id=Odwin
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:336
 msgid "We may be losing more here than we would gain from the Lavinians..."
 msgstr ""
+"Qui possiamo perdere più di quanto potremmo guadagnare dai Laviniani..."
 
 #. [message]: type=Cavernei Steelclad
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:343
 msgid "The Lavinians aren't worth this trouble..."
-msgstr ""
+msgstr "I Laviniani non valgono questo fastidio..."
 
 #. [message]: id=Odwin
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:368
@@ -1359,41 +1503,42 @@ msgid ""
 "You, Orc! This fight has gone on long enough - would you be willing to ally "
 "together here?"
 msgstr ""
+"Tu, orco! Questa lotta è andata avanti già abbastanza – ci vogliamo alleare?"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:372
 msgid "If you would agree to a lasting peace, we shall."
-msgstr ""
+msgstr "Se acconsentite ad una pace duratura, lo faremo."
 
 #. [message]: type=Cavernei Steelclad
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:378
 msgid "We're done! We can no longer afford to continue!"
-msgstr ""
+msgstr "Basta così! Non possiamo più permetterci di continuare!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/6_The_Last_Stage.cfg:382
 msgid "Then we shall have peace..."
-msgstr ""
+msgstr "Allora, avremo la pace..."
 
 #. [scenario]: id=7_Freedom_Has_a_Meaning
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:8
 msgid "Freedom Has a Meaning"
-msgstr ""
+msgstr "La libertà ha un significato"
 
 #. [side]: type=Magni Samnis, id=Sparxus
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:29
 msgid "Sparxei"
-msgstr ""
+msgstr "Sparxei"
 
 #. [side]
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:44
 msgid "Grarivei"
-msgstr ""
+msgstr "Grarivei"
 
 #. [side]
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:51
 msgid "Judge"
-msgstr ""
+msgstr "Giudice"
 
 #. [part]
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:57
@@ -1404,6 +1549,12 @@ msgid ""
 "have a job to do. If we wanted, we could summon them with one of their "
 "wishing wells, but we have no tasks for them, and nothing to pay them with."
 msgstr ""
+"I nani, dopo che noi... li convincemmo... a non combatterci, si dimostrarono "
+"buoni vicini. O, piuttosto, non erano per niente “vicini”; raramente li "
+"vedemmo ancora, dopo quel giorno. Sembrava che salissero alla superficie "
+"solo quando avevano qualcosa da fare. Se volevamo, potevamo chiamarli "
+"tramite uno dei loro pozzi dei desideri, ma non avevamo compiti per loro, e "
+"niente con cui pagarli."
 
 #. [part]
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:60
@@ -1415,6 +1566,12 @@ msgid ""
 "to their wealth if not their safety, but we're not complaining about a lack "
 "of attention."
 msgstr ""
+"Infatti, fummo lasciati completamente soli. I Laviniani non avevano ragione "
+"di continuare a cercare di ricatturarci o di ucciderci. Decisero di "
+"ignorarci; un pugno di gladiatori fuggiaschi era una piccola minaccia per "
+"loro. A giudicare dal sicuro allontanamento dei fuggitivi che ottenemmo, "
+"penso che eravamo una qualche minaccia per la loro salute se non per la loro "
+"sicurezza, ma noi non ci lamentavamo per la mancanza di attenzione..."
 
 #. [part]
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:63
@@ -1425,25 +1582,37 @@ msgid ""
 "of us our menn will follow - which of us will be, as Brotus once told me our "
 "ancestors used to say, our Khan. The Khan of the Chainbreaker clan."
 msgstr ""
+"E così, alla fine, la nostra storia finisce dove è cominciata – nell'arena. "
+"Perché io non avevo scordato Grarivus, e lui non aveva scordato me. Era "
+"passato un mese da quando ci eravamo stabiliti qui; era tempo di stabilire "
+"una volte e per tutte chi di noi i nostri uomini avrebbero seguito – chi di "
+"noi sarebbe stato, come Brotus una volta mi disse che i nostri antenati "
+"usavano chiamarlo, il nostro Khan. Il Khan del Clan degli Spezzatori della "
+"Catena."
 
 #. [part]
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:66
+#, fuzzy
 msgid ""
 "Tomorrow, at dawn, we fight. Not single combat - no, no, that would not be "
 "nearly fun enough. We shall each choose our armies, six menn each, and then "
 "we fight - just like that day in the Coliseum. But now we can fight who we "
 "choose."
 msgstr ""
+"Domani, all'alba, combatteremo. Non un singolo combattimento – no, no, che "
+"potrebbe quasi non essere abbastanza eccitante. Noi sceglieremo entrambi il "
+"nostro esercito, sei uomini ciascuno, e poi combatteremo – proprio come quel "
+"giorno nel Colosseo. Ma ora possiamo combattere chi scegliamo noi."
 
 #. [objective]: condition=win
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:75
 msgid "Kill Grarivus"
-msgstr ""
+msgstr "Uccidi Grarivus"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:154
 msgid "Charcarodon - are you certain you wish to remain neutral here?"
-msgstr ""
+msgstr "Charcarodon – sei certo di voler rimanere neutrale?"
 
 #. [message]: id=Charcarodon
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:158
@@ -1451,6 +1620,9 @@ msgid ""
 "I did not live in Lavinium when you did; I am not involved in this feud. It "
 "would dishonor you both if I were to choose a side ignorantly."
 msgstr ""
+"Non sono vissuto in Lavinium quando ci siete stati voi; non sono coinvolto "
+"in questa faida. Sarebbe un disonore per tutte e due se io scegliessi una "
+"parte senza conoscere i particolari."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:162
@@ -1458,6 +1630,8 @@ msgid ""
 "Very well. You shall be judge here, then. Your experience of the workings of "
 "the Coliseum dwarfs that of any of us."
 msgstr ""
+"Molto bene. Sarai il giudice allora. La tua esperienza dei combattimenti del "
+"Colosseo rimpicciolisce quella di ognuno di noi."
 
 #. [message]: id=Charcarodon
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:166
@@ -1467,99 +1641,106 @@ msgid ""
 "leaders - namely, you two - and you shall fight until the death of one of "
 "said leaders. Then, the survivor will become Khan. Are we agreed on these?"
 msgstr ""
+"Non so se sia vero, ma comunque giudicherò il vostro duello. Ora, le regole "
+"– ci saranno sei uomini che combatteranno da entrambi le parti oltre ai "
+"leader – cioè, voi due – e voi combatterete fino alla morte di uno dei "
+"suddetti leader. Quindi, il sopravvissuto diventerà Khan. Siamo d'accordo su "
+"questo?"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:170
 msgid "I have no objections."
-msgstr ""
+msgstr "Io non ho obiezioni."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:174
 msgid "Nor I; so let us begin."
-msgstr ""
+msgstr "Nemmeno io; cominciamo."
 
 #. [message]: id=Charcarodon
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:178
 msgid "Prepare yourselves for battle, then."
-msgstr ""
+msgstr "Preparatevi per la battaglia, allora."
 
 #. [message]: id=Charcarodon
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:193
 msgid "I will be judge here for this battle. Are we agreed on the rules?"
-msgstr ""
+msgstr "Sarò il giudice per questa battaglia. Siamo d'accordo sulle regole?"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:197
 msgid "Indeed. Six men each, till the death of the enemy leader."
-msgstr ""
+msgstr "Sì. Sei uomini per entrambi, fino alla morte del comandante nemico."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:201
 msgid "Yes - and the winner is undisputed Khan of these menn."
-msgstr ""
+msgstr "Sì – ed il vincitore è il Khan indiscusso di questi uomini."
 
 #. [message]: id=Charcarodon
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:205
 msgid "Very well; prepare yourselves for battle!"
-msgstr ""
+msgstr "Molto bene; preparatevi alla battaglia!"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:218
 msgid "Let's get on with it!"
-msgstr ""
+msgstr "Andiamo avanti!"
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:222
 msgid "Indeed - let us fight."
-msgstr ""
+msgstr "Sì – combattiamo."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:259
 msgid ""
 "Well, Brotus, we have made it thus far. Are you ready for the final test?"
 msgstr ""
+"Bene, Brotus, Siamo arrivati fin qua. Sei pronto per la battaglia finale?"
 
 #. [message]: id=Brotus
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:263
 msgid "Aye. I cannot wait to send that damned idiot to Hades."
 msgstr ""
+"Sì. Non posso più aspettare di mandare quei maledetti idioti all'inferno."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:377
 msgid "I... die..."
-msgstr ""
+msgstr "Io... muoio..."
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:387
 msgid "And I am Khan."
-msgstr ""
+msgstr "E io sono Khan."
 
 #. [message]: id=Brotus
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:401
 msgid "Unnnghh..."
-msgstr ""
+msgstr "Unnnghh..."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:411
 msgid "Grarivus! You will pay for this!"
-msgstr ""
+msgstr "Grarivus! Pagherai per questo!"
 
 #. [message]: id=Grarivus
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:422
 msgid "Arrrggh..."
-msgstr ""
+msgstr "Arrrggh..."
 
 #. [message]: id=Brotus
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:432
 msgid "Good riddance."
-msgstr ""
+msgstr "Che liberazione."
 
 #. [message]: id=Sparxus
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:436
 msgid "The bastard's dead."
-msgstr ""
+msgstr "Il bastardo è morto."
 
 #. [message]: id=Charcarodon
 #: Up_From_Slavery/scenarios/7_Freedom_Has_a_Meaning.cfg:440
 msgid "Sparxus is the victor! All hail the new Khan!"
-msgstr ""
+msgstr "Sparxus è il vincitore! Acclamiamo tutti il nuovo Khan!"

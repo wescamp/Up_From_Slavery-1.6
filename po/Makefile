@@ -47,10 +47,10 @@ MSGINIT = msginit
 MSGCONV = msgconv
 MSGFILTER = msgfilter
 
-POFILES = af.po ar.po bg.po ca.po ca_ES@valencia.po cs.po da.po de.po el.po en_GB.po es.po eo.po et.po eu.po fi.po fr.po fur_IT.po gl.po he.po hr.po hu.po id.po is.po it.po ja.po ko.po la.po lt.po lv.po mk.po nl.po nb_NO.po pl.po pt.po pt_BR.po ro.po ru.po sk.po sl.po sr.po sr@latin.po sv.po tl.po tr.po zh_CN.po zh_TW.po
-GMOFILES = af.gmo ar.gmo bg.gmo ca.gmo ca_ES@valencia.gmo cs.gmo da.gmo de.gmo el.gmo en_GB.gmo es.gmo eo.gmo et.gmo eu.gmo fi.gmo fr.gmo fur_IT.gmo gl.gmo he.gmo hr.gmo hu.gmo id.gmo is.gmo it.gmo ja.gmo ko.gmo la.gmo lt.gmo lv.gmo mk.gmo nl.gmo nb_NO.gmo pl.gmo pt.gmo pt_BR.gmo ro.gmo ru.gmo sk.gmo sl.gmo sr.gmo sr@latin.gmo sv.gmo tl.gmo tr.gmo zh_CN.gmo zh_TW.gmo
-UPDATEPOFILES = af.po-update ar.po-update bg.po-update ca.po-update ca_ES@valencia.po-update cs.po-update da.po-update de.po-update el.po-update en_GB.po-update es.po-update eo.po-update et.po-update eu.po-update fi.po-update fr.po-update fur_IT.po-update gl.po-update he.po-update hr.po-update hu.po-update id.po-update is.po-update it.po-update ja.po-update ko.po-update la.po-update lt.po-update lv.po-update mk.po-update nl.po-update nb_NO.po-update pl.po-update pt.po-update pt_BR.po-update ro.po-update ru.po-update sk.po-update sl.po-update sr.po-update sr@latin.po-update sv.po-update tl.po-update tr.po-update zh_CN.po-update zh_TW.po-update
-DUMMYPOFILES = af.nop ar.nop bg.nop ca.nop ca_ES@valencia.nop cs.nop da.nop de.nop el.nop en_GB.nop es.nop eo.nop et.nop eu.nop fi.nop fr.nop fur_IT.nop gl.nop he.nop hr.nop hu.nop id.nop is.nop it.nop ja.nop ko.nop la.nop lt.nop lv.nop mk.nop nl.nop nb_NO.nop pl.nop pt.nop pt_BR.nop ro.nop ru.nop sk.nop sl.nop sr.nop sr@latin.nop sv.nop tl.nop tr.nop zh_CN.nop zh_TW.nop
+POFILES = it.po
+GMOFILES = it.gmo
+UPDATEPOFILES = it.po-update
+DUMMYPOFILES = it.nop
 DISTFILES.common = Makefile.in.in remove-potcdate.sin \
 $(DISTFILES.common.extra1) $(DISTFILES.common.extra2) $(DISTFILES.common.extra3)
 DISTFILES = $(DISTFILES.common) Makevars POTFILES.in $(DOMAIN).pot \
@@ -58,7 +58,7 @@ DISTFILES = $(DISTFILES.common) Makevars POTFILES.in $(DOMAIN).pot \
 
 POTFILES = \
 
-CATALOGS = af.gmo ar.gmo bg.gmo ca.gmo ca_ES@valencia.gmo cs.gmo da.gmo de.gmo el.gmo en_GB.gmo es.gmo eo.gmo et.gmo eu.gmo fi.gmo fr.gmo fur_IT.gmo gl.gmo he.gmo hr.gmo hu.gmo id.gmo is.gmo it.gmo ja.gmo ko.gmo la.gmo lt.gmo lv.gmo mk.gmo nl.gmo nb_NO.gmo pl.gmo pt.gmo pt_BR.gmo ro.gmo ru.gmo sk.gmo sl.gmo sr.gmo sr@latin.gmo sv.gmo tl.gmo tr.gmo zh_CN.gmo zh_TW.gmo
+CATALOGS = it.gmo
 
 # Makevars gets inserted here. (Don't remove this line!)
 # Makefile variables for PO directory in any package using GNU gettext.
